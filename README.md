@@ -34,7 +34,7 @@ Dirby (Docs + Kirby) is an opinionated [Kirby](http://getkirby.com) docs theme b
 
 Add the following snippet to `site/config/config.php`
 
-```
+```php
 c::set('routes', array(
   array(
     'pattern' => 'logout',
