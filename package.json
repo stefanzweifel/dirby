@@ -1,0 +1,26 @@
+{
+  "name": "dirby",
+  "version": "1.0.0",
+  "description": "Dirby is an opinionated Kirby theme for documentations.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanzweifel/dirby.git"
+  },
+  "author": [
+    "Stefan Zweifel (https://stefanzweifel.io)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanzweifel/dirby/issues"
+  },
+  "homepage": "https://github.com/stefanzweifel/dirby",
+  "private": true,
+  "devDependencies": {
+    "laravel-elixir": "^3.4.1"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.5",
+    "clipboard": "^1.4.2",
+    "jquery": "^2.1.4"
+  }
+}

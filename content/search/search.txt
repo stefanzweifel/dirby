@@ -1,0 +1,5 @@
+Title: Searchresults
+
+----
+
+Text: That's what we found for your search.
