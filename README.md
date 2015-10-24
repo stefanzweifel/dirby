@@ -7,7 +7,9 @@ Dirby (Docs + Kirby) is an opinionated [Kirby](http://getkirby.com) docs theme b
 
 ## Screenshots
 
-> *Screenshots coming soon*
+![https://raw.githubusercontent.com/stefanzweifel/dirby/master/_github-files/screenshots/code-example.png](https://raw.githubusercontent.com/stefanzweifel/dirby/master/_github-files/screenshots/code-example.png)
+
+[More screenhots](https://github.com/stefanzweifel/dirby/tree/master/_github-files/screenhosts)
 
 ## Preparation
 
