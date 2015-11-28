@@ -60,7 +60,7 @@
                         <?php
                             // New Admin URLs in 2.2
                             $version = str_replace(".", "", toolkit::version());
-                            $adminUrl = "/panel/pages/show/{$page->uri()}/edit";
+                            $adminUrl = "/panel/pages/{$page->uri()}/edit";
 
                             if ($version < 220) {
 
