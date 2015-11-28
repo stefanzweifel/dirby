@@ -1,9 +1,9 @@
-# Dirby - an opinionated kirby docs theme
+# Dirby - an opinionated Kirby docs theme
 
 ![https://raw.githubusercontent.com/stefanzweifel/dirby/master/_github-files/readme-image.png](https://raw.githubusercontent.com/stefanzweifel/dirby/master/_github-files/readme-image.png)
 
 Dirby (Docs + Kirby) is an opinionated [Kirby](http://getkirby.com) docs theme built with Bootstrap 3.
-*This theme was built for Kirby 2.1. Kirby Version 2.2 (currently in BETA) works too.*
+*This theme was built for Kirby 2.1. and Kirby Version 2.2.*
 
 ## Screenshots
 
